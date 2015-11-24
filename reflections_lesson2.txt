@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is where added files go before they are commited allows you to organize your work before commiting it to the repository.
