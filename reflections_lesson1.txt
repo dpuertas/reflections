@@ -1,0 +1,7 @@
+
+How can you use the commands git log and git diff to view the history of files?
+git log gives you history of commits with ID numbers
+git diff helps you compare to commits to show details of changes
+
+How might using version control make you more confident to make changes that could break something?
+You have a history of the file that helps you find where mistakes were introduced.
