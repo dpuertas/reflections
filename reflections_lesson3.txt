@@ -1,1 +1,15 @@
-New Reflections File for Lesson 3
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+For the same reasons you decide on manual commits to create changes that represent logical commits 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a clone on github that you would use to modify existing work while giving credit to original author. clone can happen locally to copy . branch is used to create an experimental version of existing code and potentially merge back into it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so you can make changes to the most recent copy and avoid conflicts
+
+
+
+
